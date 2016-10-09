@@ -73,6 +73,7 @@ a {
     padding: 2rem 1rem; } }
 */
 .project-name {
+  clear: both;
   margin-top: 0;
   margin-bottom: 0.1rem; }
 
